@@ -1,0 +1,22 @@
+
+
+.rightButtons {
+    float: inline-start;
+}
+
+.container {
+    padding-top: 3%;
+    background-color: #D49CF0;
+}
+
+.btn:hover {
+    background-color: #FEF5ED;
+    color: #ADC2A9;
+}
+
+.btnAboutMe {
+    background-color: #9ddfd3;
+    color: white;
+    border: 0px solid;
+}
+
