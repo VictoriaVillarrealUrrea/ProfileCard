@@ -105,7 +105,7 @@
 .profileImage {
     border-radius: 60%;
     border-width: 5px;
-    border-style: dotted;
+    border-style:dotted;
     border-color: #ACCC7B;
     width: 90%;
     height: fit-content;

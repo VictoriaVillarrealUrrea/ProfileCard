@@ -101,7 +101,7 @@ function eventsHandlers() {
         let container = document.getElementById('container');
         let container2 = document.getElementById('secondB');
         let texto = document.getElementById('info');
-
+        
         if(container.style.backgroundColor=="black"){
             container.style.backgroundColor="white";
             container2.style.backgroundColor="white";
@@ -112,9 +112,6 @@ function eventsHandlers() {
         }
 
     });
-
-
-    
 }
 document.addEventListener('DOMContentLoaded', () => {
     eventsHandlers();
