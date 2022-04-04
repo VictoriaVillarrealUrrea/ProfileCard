@@ -29,7 +29,7 @@ function setInnerHTML(types){
             </div>
             <div class="left">
                 <div>
-                    <img class="profileImage" src="https://randomuser.me/api/portraits/women/8.jpg">
+                    <img class="profileImage" src="src/images/profilepic.jpg">
                 </div>
             </div>
         </div>
@@ -38,7 +38,7 @@ function setInnerHTML(types){
     if(types==2){
         return `
         <div>
-            <div class="left" id="info">
+            <div class="right" id="info">
             <div>
             <h1 class="text">To read my experience I recomend to see my cv</h1>
             <hr size="4px" color="#ACCC7B" width="400px" >
@@ -46,7 +46,7 @@ function setInnerHTML(types){
             <img class="icon text" src="src/images/c.png" align="left">Graduated from ITESO in 2021</p>
             <p class="labels text">
             <p class="labels text">
-            <img class="icon text" src="src/images/s.png" align="left">Started an intership in 2019</p>
+            <img class="icon text" src="src/images/s.png" align="left">Did an intership in 2019</p>
             <p class="bachelors text">
             <img class="icon text" src="src/images/b.png" align="left">Worked in Javascript project, Java projects (OOP)</p>
             <p class="bachelors text">
@@ -59,9 +59,9 @@ function setInnerHTML(types){
             <img class="icon" src="src/images/b.png" align="left">Java, Sql, C</p>
         </div>
             </div>
-            <div class="right">
+            <div class="left">
                 <div>
-                    <img class="profileImage" src="https://randomuser.me/api/portraits/women/8.jpg">
+                    <img class="profileImage"src="src/images/profilepic.jpg">
                 </div>
             </div>
         </div>

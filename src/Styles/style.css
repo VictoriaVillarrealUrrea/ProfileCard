@@ -95,19 +95,19 @@
     width: 20%;
     float: left;
     height: fit-content;
-    padding-top: 5%;
-    padding-left: 5%;
+    padding-left: 15%;
+    padding-bottom: 15%;
     
 
 }
 
 /*images and icons */
 .profileImage {
-    border-radius: 40%;
+    border-radius: 60%;
     border-width: 5px;
     border-style: dotted;
     border-color: #ACCC7B;
-    width: 130%;
+    width: 90%;
     height: fit-content;
 
 }
